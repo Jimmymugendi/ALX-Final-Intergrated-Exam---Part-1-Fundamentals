@@ -1,7 +1,7 @@
 # ALX-Final-Intergrated-Exam---Part-1-Fundamentals
 ## ALX Data Science Final Exam Showcase
 ## Overview
-This repository contains my ALX Data Science final exam questions, datasets, and solutions. The exam tested various concepts across Spreadsheets, SQL, and Python. With a success rate of 99%, this repository aims to demonstrate my approach to handling data-related challenges using industry-standard tools and techniques.
+This repository contains the ALX Data Science final exam questions, datasets, and solutions. The exam tested various concepts across Spreadsheets, SQL, and Python. With a success rate of 99%, this repository aims to demonstrate the approach to handling data-related challenges using industry-standard tools and techniques.
 
 ## Table of Contents
 * Exam Overview
