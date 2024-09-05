@@ -84,6 +84,7 @@ With a meticulous approach and thorough understanding of data handling technique
 bash
 
 `git clone https://github.com/yourusername/ALX-Data-Science-Final-Exam.git`
+
 2. Access the individual folders for each section to explore questions, datasets, and solutions.
 3. Follow along with the provided notebooks and code to understand the approaches used.
 ## Contributing
